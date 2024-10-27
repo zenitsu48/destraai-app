@@ -21,3 +21,6 @@ vscode.db
 product.overrides.json
 *.snap.actual
 .vscode-test
+extensions/continue-submodule
+extensions/continue-ref
+.prompts
